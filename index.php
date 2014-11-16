@@ -6,5 +6,8 @@ echo '</br>';
 echo 'bingo</br>';
 
 var_dump($server);
-echo "<h1>Git Push 101</h1>";
+echo "<h1>Git Push 101</h1></br>";
+echo "<h1>Git Push 101</h1></br>";
+echo "<h1>Git Push 101</h1></br>";
+
 ?>
